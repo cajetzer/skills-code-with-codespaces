@@ -1,4 +1,3 @@
-// filepath: /workspaces/skills-code-with-codespaces/setup.sh
 #!/bin/bash
 
 sudo apt-get update
